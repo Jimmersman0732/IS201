@@ -9,7 +9,7 @@ body{
             font-weight: normal;
         }
         /* a and li are diffrent types in the resume so it makes them all change no add nessisary */
-        a {color:white;
+        a {color:red;
         text-decoration:none;}
         a:hover{text-decoration: underline;
                 /* font-weight: bold;
