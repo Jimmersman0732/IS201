@@ -1,0 +1,58 @@
+body{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            color:#555555;
+            background-color: gold;    
+        }
+        li {font-size: 14px;
+            font-style: italic;
+            font-weight: normal;
+        }
+        /* a and li are diffrent types in the resume so it makes them all change no add nessisary */
+        a {color:red;
+        text-decoration:none;}
+        a:hover{text-decoration: underline;
+                /* font-weight: bold;
+                font-size: 18px;} */}
+        a:visited{color: blue;}
+
+        .resumelistheading {
+            font-weight: bold;
+            font-style: normal;
+        }
+        .underline { text-decoration: underline;}
+        .bold{font-weight: bold;}
+        .justify{text-align: justify;}
+
+        .homebg{
+            background-image: url("../Images/Asgard.jpg");
+            background-position: top right;
+        }
+        .box1{
+            border-width: 1px;
+            border-style: solid;
+            border-color: gold;
+
+            /* border: 1px solid red; */ 
+            /* it can all be on one line */
+        }
+        .box2{
+            padding: 5px;
+        }
+        .box3{
+            margin: 50px;
+        }
+        .box4{background-color: darkgray;
+                color: black}
+        .boxA{background-color: lightgray;
+                color: black}
+        .box5{background-color: lightblue}
+        .box6{background-color: lightgoldenrodyellow}
+        .box7{background-color: lightsalmon}
+        .box8{background-color: lightslategray}
+        .box9{background-color: lightseagreen}
+        .box10{background-color: lightskyblue}
+        .box11{background-color: white;
+            font-family: fantasy}
+/*hhuhuhuhu*/
+/* jimmer */
